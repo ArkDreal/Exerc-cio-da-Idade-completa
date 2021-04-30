@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\bin\Debug\net5.0\IdadeCompleta.exe
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\bin\Debug\net5.0\IdadeCompleta.deps.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\bin\Debug\net5.0\IdadeCompleta.runtimeconfig.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\bin\Debug\net5.0\IdadeCompleta.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\bin\Debug\net5.0\IdadeCompleta.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\bin\Debug\net5.0\ref\IdadeCompleta.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\bin\Debug\net5.0\IdadeCompleta.pdb
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\obj\Debug\net5.0\IdadeCompleta.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\obj\Debug\net5.0\IdadeCompleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\obj\Debug\net5.0\IdadeCompleta.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\obj\Debug\net5.0\IdadeCompleta.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\obj\Debug\net5.0\IdadeCompleta.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\obj\Debug\net5.0\IdadeCompleta.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\obj\Debug\net5.0\ref\IdadeCompleta.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\obj\Debug\net5.0\IdadeCompleta.pdb
+C:\Users\Administrador\Desktop\SENAI - ANDREY\IdadeCompleta\obj\Debug\net5.0\IdadeCompleta.genruntimeconfig.cache
